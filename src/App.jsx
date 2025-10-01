@@ -295,7 +295,7 @@ export default function App() {
               </div>
               <div>
                 <label className="block text-sm text-white/80">Email</label>
-                <input type="email" name="email" required className="mt-1 w-full rounded-xl bg-white/5 border border-white/15 px-4 py-3 outline-none focus:border-teal-400/60" placeholder="you@example.com" />
+                <input type="email" name="email" required className="mt-1 w-full rounded-xl bg-white/5 border border-white/15 px-4 py-3 outline-none focus:border-teal-400/60" placeholder="your_email@example.com" />
               </div>
             </div>
             <div>
