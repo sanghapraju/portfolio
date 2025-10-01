@@ -300,7 +300,7 @@ export default function App() {
             </div>
             <div>
               <label className="block text-sm text-white/80">Message</label>
-              <textarea name="message" required rows="6" className="mt-1 w-full rounded-xl bg-white/5 border border-white/15 px-4 py-3 outline-none focus:border-teal-400/60" placeholder="Tell me about your project..." />
+              <textarea name="message" required rows="6" className="mt-1 w-full rounded-xl bg-white/5 border border-white/15 px-4 py-3 outline-none focus:border-teal-400/60" placeholder="Type your message here…" />
             </div>
             <div className="pt-2 flex items-center gap-3">
               <button type="submit" className="rounded-2xl px-6 py-3 border border-teal-300/40 bg-teal-500/20 hover:bg-teal-500/25 text-teal-100">Send message</button>
